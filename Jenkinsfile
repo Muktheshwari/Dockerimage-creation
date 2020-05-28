@@ -22,5 +22,5 @@ pipeline {
         }
 
     }
-agent {label,linux}
+agent {label linux}
 }
